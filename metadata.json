@@ -1,0 +1,6 @@
+{
+  "name": "Brawl Arena Taktik",
+  "description": "Brawl Stars e-spor maç takvimi, karakter meta ve not rehberi, Gemini yapay zeka ile taktik planlama ve draft analizi uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
